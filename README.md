@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 👋 Hi. I'm tobi
+
 👋 I'm an Entry level Data Analyst
+
 🌱 I’m currently learning Excel, python, power_bi and sql
+
 👯 I’m looking to for an internship role to apply my data analysis skills and learn in a real-world setting.
