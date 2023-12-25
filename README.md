@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 👋 I'm an Entry level Data Analyst
 
-🌱 I’m currently learning Excel, python, power_bi and sql
+🌱I possess intermediate proficiency  in Excel, Python, SQL, and Power BI.
 
-👯 I’m looking to for an internship role to apply my data analysis skills and learn in a real-world setting.
+👯 I’m currently for an internship role to apply my data analysis skills and learn in a real-world setting.
